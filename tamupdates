@@ -1,6 +1,7 @@
 - Proactive Notifications
   - https://access.redhat.com/security/cve/cve-2021-44228 (Apache Log4j logging library)
     - OCP 3 Workaround [here](https://access.redhat.com/solutions/6578441)
+    - OCP 3 Fix [here](https://access.redhat.com/errata/RHSA-2021:5094)
     - OCP 4 Workaround [here](https://access.redhat.com/solutions/6578421)
 - Additional items from Red Hat
   - A note in regard to upgrading to OCP 4.9. This upgrade will not start due to removal of APIs [https://docs.openshift.com/container-platform/4.9/release_notes/ocp-4-9-release-notes.html#ocp-4-9-removed-kube-1-22-apis](https://docs.openshift.com/container-platform/4.9/release_notes/ocp-4-9-release-notes.html#ocp-4-9-removed-kube-1-22-apis) and will require you to follow this document [https://docs.openshift.com/container-platform/4.9/updating/updating-cluster-prepare.html#updating-cluster-prepare](https://docs.openshift.com/container-platform/4.9/updating/updating-cluster-prepare.html#updating-cluster-prepare) or this article [https://access.redhat.com/articles/6329921](https://access.redhat.com/articles/6329921)
