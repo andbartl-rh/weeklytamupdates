@@ -1,9 +1,9 @@
-- Proactive Notifications
+ta- Proactive Notifications
   - https://access.redhat.com/security/cve/cve-2021-44228 (Apache Log4j logging library)
     - OCP 3 Workaround [here](https://access.redhat.com/solutions/6578441)
     - OCP 3 Fix [here](https://access.redhat.com/errata/RHSA-2021:5094)
     - OCP 4 Workaround [here](https://access.redhat.com/solutions/6578421)
-  - Log4j CVEs:
+  - Log4j errata:
     - https://access.redhat.com/errata/RHSA-2021:5106
     - https://access.redhat.com/errata/RHSA-2021:5141
     - https://access.redhat.com/errata/RHSA-2021:5186
