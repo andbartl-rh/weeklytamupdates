@@ -1,4 +1,4 @@
-ta- Proactive Notifications
+- Proactive Notifications
   - https://access.redhat.com/security/cve/cve-2021-44228 (Apache Log4j logging library)
     - OCP 3 Workaround [here](https://access.redhat.com/solutions/6578441)
     - OCP 3 Fix [here](https://access.redhat.com/errata/RHSA-2021:5094)
