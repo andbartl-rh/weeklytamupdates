@@ -1,7 +1,7 @@
 - Proactive Notifications
 - Additional items from Red Hat
-  - Public Holiday 1st August 2022 (1 day)
-  - Holiday 12th August 2022 (1 day)
+  - Andy Public Holiday 1st August 2022 (1 day)
+  - Andy Holiday 12th August 2022 (1 day)
   - Clusters updating out of 4.10.14, 4.10.15, 4.10.16, 4.10.17, 4.10.18, and 4.10.19 may, depending on their past history, fail to initiate the update as the pod retrieving the target release collides with previous release data. In order to avoid this trouble, we recommend avoiding updates to these releases. This issue is fixed in 4.10.20 and later.
     - [https://access.redhat.com/solutions/6965075](https://access.redhat.com/solutions/6965075)
   - Potential etcd data inconsistency issue in OCP 4.9 and 4.10
