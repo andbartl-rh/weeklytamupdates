@@ -3,6 +3,9 @@
 - TAM availability
   - Andy upcoming holiday 21st Nov to 25th Nov (1 Week cover is Sean Burke sburke@redhat.com)
 - Additional items from Red Hat
+  - Critical OpenSSL issue affecting OpenSSL V3.0.x : [https://access.redhat.com/security/vulnerabilities/RHSB-2022-004](https://access.redhat.com/security/vulnerabilities/RHSB-2022-004) worth noting:
+    - RHEL8/OCP4 = OpenSSL 1.1.1
+    - RHEL7/OCP3 = OpenSSL 1.0.1, 1.0.2
   - Want to know whats new in OCP 4.11? .... try here: [https://cloud.redhat.com/blog/whats-new-in-red-hat-openshift-4.11](https://cloud.redhat.com/blog/whats-new-in-red-hat-openshift-4.11)
   - Important note about OCP 4.11, please be aware of important OpenShift Changes to Pod Security Standards more info can be found here:
     - [https://connect.redhat.com/blog/important-openshift-changes-pod-security-standards](https://connect.redhat.com/blog/important-openshift-changes-pod-security-standards)
