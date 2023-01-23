@@ -1,15 +1,16 @@
 - Proactive Notifications
-  - Video and slides from the What's Next in Red Hat OpenShift Q4 CY 2022 presentation: https://www.redhat.com/en/whats-new-red-hat-openshift
+  - Openshift 4.12 is now GA !
+  - Video and slides from the What's Next in Red Hat OpenShift Q4 CY 2022 presentation: [https://www.redhat.com/en/whats-new-red-hat-openshift](https://www.redhat.com/en/whats-new-red-hat-openshift)
 - TAM availability
   - I will be out of the office 30th Jan to 3rd Feb. Red Hat Technology Services is hosting an internal enablement event, The Red Hat Tech Exchange, for our EMEA field delivery teams during 30th Jan to 3rd Feb.  It’s a unique opportunity where we’re physically bringing together teams from both regions for a week of knowledge sharing, collaboration, and advanced training.  This is part of our continual investment in our associates for the betterment and success of our customers.  An essential aspect of this event is the broad participation of all our Services team members.
   - I will also be out of the office 7th and 8th Feb on holiday and Sean Burke (sburke@redhat.com) and Phill Ollenbuttel (pollenbu@redhat.com) will be covering me, please feel free to contact them with any issues.
 - Openshift 4 Lifecycle
   - [https://access.redhat.com/labs/ocpupgradegraph/update_channel](https://access.redhat.com/labs/ocpupgradegraph/update_channel)
 - Additional items from Red Hat
+  - Want to know whats new in OCP 4.12? .... try here: [https://speakerdeck.com/redhatlivestreaming/whats-new-in-openshift-4-dot-12](https://speakerdeck.com/redhatlivestreaming/whats-new-in-openshift-4-dot-12)
   - Critical OpenSSL issue affecting OpenSSL V3.0.x : [https://access.redhat.com/security/vulnerabilities/RHSB-2022-004](https://access.redhat.com/security/vulnerabilities/RHSB-2022-004) worth noting:
     - RHEL8/OCP4 = OpenSSL 1.1.1
     - RHEL7/OCP3 = OpenSSL 1.0.1, 1.0.2
-  - Want to know whats new in OCP 4.11? .... try here: [https://cloud.redhat.com/blog/whats-new-in-red-hat-openshift-4.11](https://cloud.redhat.com/blog/whats-new-in-red-hat-openshift-4.11)
   - Important note about OCP 4.11, please be aware of important OpenShift Changes to Pod Security Standards more info can be found here:
     - [https://connect.redhat.com/blog/important-openshift-changes-pod-security-standards](https://connect.redhat.com/blog/important-openshift-changes-pod-security-standards)
   - Clusters updating out of 4.10.14, 4.10.15, 4.10.16, 4.10.17, 4.10.18, and 4.10.19 may, depending on their past history, fail to initiate the update as the pod retrieving the target release collides with previous release data. In order to avoid this trouble, we recommend avoiding updates to these releases. This issue is fixed in 4.10.20 and later.
@@ -17,6 +18,5 @@
   - Potential etcd data inconsistency issue in OCP 4.9 and 4.10
     - [https://access.redhat.com/solutions/6849521](https://access.redhat.com/solutions/6849521)
     - [https://access.redhat.com/solutions/6907321](https://access.redhat.com/solutions/6907321)
-  - A note in regard to upgrading to OCP 4.9. This upgrade will not start due to removal of APIs [https://docs.openshift.com/container-platform/4.9/release_notes/ocp-4-9-release-notes.html#ocp-4-9-removed-kube-1-22-apis](https://docs.openshift.com/container-platform/4.9/release_notes/ocp-4-9-release-notes.html#ocp-4-9-removed-kube-1-22-apis) and will require you to follow this document [https://docs.openshift.com/container-platform/4.9/updating/updating-cluster-prepare.html#updating-cluster-prepare](https://docs.openshift.com/container-platform/4.9/updating/updating-cluster-prepare.html#updating-cluster-prepare) or this article [https://access.redhat.com/articles/6329921](https://access.redhat.com/articles/6329921)
-- Additional items from the customer
+ - Additional items from the customer
     
