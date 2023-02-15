@@ -1,8 +1,10 @@
 - Proactive Notifications
+  - ODF 4.11.5 is now GA [Relase Notes](https://access.redhat.com/errata/RHBA-2023:0764)
   - Openshift 4.12 is now GA !
   - ACM 2.7 GA - [Blog](https://cloud.redhat.com/blog/red-hat-advanced-cluster-management-for-kubernetes-2.7-maintains-its-commitment-to-security-at-the-edge?hs_preview=yVBfvbRa-101533025107)
   - Video and slides from the What's Next in Red Hat OpenShift Q4 CY 2022 presentation: [https://www.redhat.com/en/whats-new-red-hat-openshift](https://www.redhat.com/en/whats-new-red-hat-openshift)
 - TAM availability
+  - Andy out of the office 24th February
 - Openshift 4 Lifecycle
   - [https://access.redhat.com/labs/ocpupgradegraph/update_channel](https://access.redhat.com/labs/ocpupgradegraph/update_channel)
 - Additional items from Red Hat
