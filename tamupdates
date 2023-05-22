@@ -1,4 +1,5 @@
 - Proactive Notifications
+  - Openshift 4.13 is GA https://docs.openshift.com/container-platform/4.13/release_notes/ocp-4-13-release-notes.html
   - Please be aware of potential firewall changes for container image pulls more info [https://access.redhat.com/articles/6999582](https://access.redhat.com/articles/6999582)
   - The OpenShift Marketplace that manages the Operator Life Cycle and Installed operators in a cluster was temporarily redirected to the Red Hat staging environment which is not accessible to the public. For more info please see [https://access.redhat.com/articles/7000167](https://access.redhat.com/articles/7000167)
 - TAM availability
