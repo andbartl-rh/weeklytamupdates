@@ -5,7 +5,8 @@
   - Please be aware of potential firewall changes for container image pulls more info [https://access.redhat.com/articles/6999582](https://access.redhat.com/articles/6999582)
   - The OpenShift Marketplace that manages the Operator Life Cycle and Installed operators in a cluster was temporarily redirected to the Red Hat staging environment which is not accessible to the public. For more info please see [https://access.redhat.com/articles/7000167](https://access.redhat.com/articles/7000167)
 - TAM availability
-  - Nothing this week.
+  - 3rd to 6th October I will be out of the office attending Summit Connect in the Netherlands
+  - 16th to 20th October I am out of the office
 - Openshift 4 Lifecycle
   - [https://access.redhat.com/labs/ocpupgradegraph/update_channel](https://access.redhat.com/labs/ocpupgradegraph/update_channel)
 - Additional items from Red Hat
