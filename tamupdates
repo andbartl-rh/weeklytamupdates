@@ -1,9 +1,8 @@
 - Proactive Notifications
+  - Please be aware of this CVE: https://access.redhat.com/security/cve/CVE-2023-44487 released 11/10/2023
   - The customer portal will start validating emails day-after-tomorrow, Thursday, 9/28. When you login to the portal, it should generate an automated email to you. Just follow the directions in the auto-generated email and that should take care of it. If you've changed emails since you set up your portal account, be sure to update your correct email address in the portal, so the validation notifies the correct email, so you don't run into hassles logging in.
   - For any customers using Openshift in FIPS mode: https://access.redhat.com/security/vulnerabilities/RHSB-2023-001
   - Openshift 4.13 is GA https://docs.openshift.com/container-platform/4.13/release_notes/ocp-4-13-release-notes.html
-  - Please be aware of potential firewall changes for container image pulls more info [https://access.redhat.com/articles/6999582](https://access.redhat.com/articles/6999582)
-  - The OpenShift Marketplace that manages the Operator Life Cycle and Installed operators in a cluster was temporarily redirected to the Red Hat staging environment which is not accessible to the public. For more info please see [https://access.redhat.com/articles/7000167](https://access.redhat.com/articles/7000167)
 - TAM availability
   - 16th to 20th October I am out of the office
   - 30th Oct to 3rd November I am out of the office training
