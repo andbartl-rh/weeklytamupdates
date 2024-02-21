@@ -1,6 +1,5 @@
 Proactive Notifications
 - Whats new in Openshift 4.15 presentation from February 15th 2024 slides are here: [slides](https://speakerdeck.com/redhatlivestreaming/whats-new-in-openshift-4-dot-15)
-
 - OpenShift DeploymentConfigs are deprecated starting from OpenShift 4.14 [List of all deprecated features](https://docs.openshift.com/container-platform/4.14/release_notes/ocp-4-14-release-notes.html#ocp-4-14-deprecated-features)
 - Red Hat OpenShift 4.14 is now generally available
 - TAM availability
