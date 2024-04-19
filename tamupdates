@@ -4,7 +4,8 @@ Proactive Notifications
 - Red Hat OpenShift 4.15 is now generally available
 - OpenShift DeploymentConfigs are deprecated starting from OpenShift 4.14 [List of all deprecated features](https://docs.openshift.com/container-platform/4.14/release_notes/ocp-4-14-release-notes.html#ocp-4-14-deprecated-features)
 - TAM availability
-  - No upcoming events
+  - Andy out of office 3rd May (pto) and 6th May (Public Holiday)
+  - Andy out of office 24th May (RHRD) and 27th May (Public Holiday)
 - Openshift 4 Lifecycle
    - [OCP Upgrade checker](https://access.redhat.com/labs/ocpupgradegraph/update_channel)
    - [Red Hat OpenShift Container Platform Operator Update Information Checker](https://access.redhat.com/labs/ocpouic/?upgrade_path=4.10%20to%204.12) 
