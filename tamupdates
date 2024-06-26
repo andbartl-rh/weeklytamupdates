@@ -1,10 +1,8 @@
 Proactive Notifications
 
-- Join us for the What's New in OpenShift 4.16 on June 25th 2024
-Please join our OpenShift product managers for an in-depth OpenShift update live via [YouTube](https://www.youtube.com/watch?v=1kt8uSBEQHQ) or [Twitch.tv](https://www.google.com/url?q=https%3A%2F%2Fwww.twitch.tv%2Fredhatopenshift%2F&sa=D&ust=1719356100000000&usg=AOvVaw3RP-dcI0yIZA5F_6obUCx4)_ _on Tuesday June 25, from 10:00 am to 11:30 am ET._  
-  
-  - This is an exciting opportunity for you to interact directly with OpenShift experts and learn—alongside Red Hat—what's new in OpenShift. To learn about other OpenShift livestream events, subscribe today to the [calendar](https://www.google.com/url?q=http%3A%2F%2Fred.ht%2Fstreamcal&sa=D&ust=1707740160000000&usg=AOvVaw2iYyFkKQyjO-nybylX7o60)  
-_We hope to see you on June 25!_
+- What's New in OpenShift 4.16 which streamed on June 25th 2024 recording available here: 
+	- [YouTube](https://www.youtube.com/watch?v=1kt8uSBEQHQ)
+	- [Twitch.tv](https://www.google.com/url?q=https%3A%2F%2Fwww.twitch.tv%2Fredhatopenshift%2F&sa=D&ust=1719356100000000&usg=AOvVaw3RP-dcI0yIZA5F_6obUCx4)
 - To maintain relevance with the current business needs, Red Hat has refreshed its Support Severity level definitions. The new definitions have a focus on the Business Operations rather than the operating environment. The new definitions are now published [here](https://access.redhat.com/support/policy/severity).
 - Beginning April 30, Red Hat product documentation will be available at docs.redhat.com. Customer Portal docs will remain available with messaging to invite users to try the new experience. On May 15, all traffic to product documentation on the Customer Portal will be redirected to docs.redhat.com.
 - A vulnerability was discovered in how the Go programming language implements the HTTP/2 protocol. There were insufficient limitations placed on the amount of CONTINUATION frames that could be sent within a single stream. An unauthenticated, remote attacker could exploit this by sending packets to vulnerable servers, which could use up compute or memory resources to cause a Denial of Service. [more info](https://access.redhat.com/security/cve/CVE-2023-45288)
