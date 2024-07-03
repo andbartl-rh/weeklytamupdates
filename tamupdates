@@ -1,5 +1,12 @@
 Proactive Notifications
 
+- OpenShift MachineConfig to mitigate CVE-2024-6387 
+A race condition was discovered in OpenSSH's server (sshd) where the SIGALRM handler is called asynchronously after LoginGraceTime seconds if the client doesn't authenticate. This handler uses non-async-signal-safe functions like syslog(), causing potential issues.
+	- To mitigate this issue you can set the LoginGraceTime to 0. This will prevent unauthenticated sessions from being kept open but can lead to a denial of service if all connection slots are used.
+    - To apply the mitigation for CVE-2024-6387 on certain OpenShift Container Platform Nodes, follow the steps documented in [this solution article](https://access.redhat.com/solutions/7077080).
+Note that the sshd server will still be vulnerable to Denial of Service attacks due to the possibility os MaxStartups connection exhaustion, however it'll be safe against the possible remote code execution attacks.
+- CVE-2024-5154 cri-o: malicious container can create symlink on host	
+    - A flaw was found in cri-o. A malicious container can create a symbolic link pointing to an arbitrary directory or file on the host via directory traversal (“../“). This flaw allows the container to read and write to arbitrary files on the host system. Because this is a full container breakout, SELinux and/or Security Context Constraints (SCC) are both unable to mitigate or prevent the exploit from happening. Customers are requested to update Red Hat OpenShift Container Platform 4 to a version containing the fix for this vulnerability.
 - What's New in OpenShift 4.16 which streamed on June 25th 2024 recording available here: 
 	- [YouTube](https://www.youtube.com/watch?v=1kt8uSBEQHQ)
 	- [Twitch.tv](https://www.twitch.tv%2Fredhatopenshift%2F&sa=D&ust=1719356100000000&usg=AOvVaw3RP-dcI0yIZA5F_6obUCx4)
