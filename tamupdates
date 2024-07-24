@@ -7,12 +7,16 @@ A race condition was discovered in OpenSSH's server (sshd) where the SIGALRM han
 Note that the sshd server will still be vulnerable to Denial of Service attacks due to the possibility os MaxStartups connection exhaustion, however it'll be safe against the possible remote code execution attacks.
 - CVE-2024-5154 cri-o: malicious container can create symlink on host	
     - A flaw was found in cri-o. A malicious container can create a symbolic link pointing to an arbitrary directory or file on the host via directory traversal (“../“). This flaw allows the container to read and write to arbitrary files on the host system. Because this is a full container breakout, SELinux and/or Security Context Constraints (SCC) are both unable to mitigate or prevent the exploit from happening. Customers are requested to update Red Hat OpenShift Container Platform 4 to a version containing the fix for this vulnerability.
+
 - To maintain relevance with the current business needs, Red Hat has refreshed its Support Severity level definitions. The new definitions have a focus on the Business Operations rather than the operating environment. The new definitions are now published [here](https://access.redhat.com/support/policy/severity).
 - Beginning April 30, Red Hat product documentation will be available at docs.redhat.com. Customer Portal docs will remain available with messaging to invite users to try the new experience. On May 15, all traffic to product documentation on the Customer Portal will be redirected to docs.redhat.com.
 - A vulnerability was discovered in how the Go programming language implements the HTTP/2 protocol. There were insufficient limitations placed on the amount of CONTINUATION frames that could be sent within a single stream. An unauthenticated, remote attacker could exploit this by sending packets to vulnerable servers, which could use up compute or memory resources to cause a Denial of Service. [more info](https://access.redhat.com/security/cve/CVE-2023-45288)
 - OpenShift DeploymentConfigs are deprecated starting from OpenShift 4.14 [List of all deprecated features](https://docs.openshift.com/container-platform/4.14/release_notes/ocp-4-14-release-notes.html#ocp-4-14-deprecated-features)
 - TAM availability
+	- Out of the Office 22nd/23rd August visiting customer
 	- Holiday 30th August 2024 and 2nd September (Long Weekend)
+	- Out of the Office 17th / 18th September visiting customer
+	- Out of the Office 8th to 10th October visiting customer
 - Openshift 4 Lifecycle
 	- [OCP Upgrade checker](https://access.redhat.com/labs/ocpupgradegraph/update_channel)
 	- [Red Hat OpenShift Container Platform Operator Update Information Checker](https://access.redhat.com/labs/ocpouic/?upgrade_path=4.10%20to%204.12) 
