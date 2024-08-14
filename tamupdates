@@ -21,10 +21,10 @@ Note that the sshd server will still be vulnerable to Denial of Service attacks 
 	- [OCP Upgrade checker](https://access.redhat.com/labs/ocpupgradegraph/update_channel)
 	- [Red Hat OpenShift Container Platform Operator Update Information Checker](https://access.redhat.com/labs/ocpouic/?upgrade_path=4.10%20to%204.12) 
 - Additional items from Red Hat
+	- Reference guide for Engaging with Red Hat Support is [here](https://access.redhat.com/articles/280093)
 	- What's New in OpenShift 4.16 which streamed on June 25th 2024 recording available here: 
 		- [YouTube](https://www.youtube.com/watch?v=1kt8uSBEQHQ)
 		- [Twitch.tv](https://www.twitch.tv%2Fredhatopenshift%2F&sa=D&ust=1719356100000000&usg=AOvVaw3RP-dcI0yIZA5F_6obUCx4)
-	- Reference guide for Engaging with Red Hat Support is [here](https://access.redhat.com/articles/280093)
 
 &nbsp;
 &nbsp;
