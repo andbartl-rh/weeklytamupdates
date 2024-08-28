@@ -14,6 +14,7 @@ Note that the sshd server will still be vulnerable to Denial of Service attacks 
 - OpenShift DeploymentConfigs are deprecated starting from OpenShift 4.14 [List of all deprecated features](https://docs.openshift.com/container-platform/4.14/release_notes/ocp-4-14-release-notes.html#ocp-4-14-deprecated-features)
 - TAM availability
 	- Holiday 30th August 2024 and 2nd September (Long Weekend)
+	- Holiday 9th September to 13th September
 	- Out of the Office 17th / 18th September visiting customer
 	- Out of the Office 8th to 10th October visiting customer
 - Openshift 4 Lifecycle
