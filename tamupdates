@@ -1,12 +1,10 @@
 Proactive Notifications
 
-- Please join our OpenShift product managers for an in-depth OpenShift update live via [YouTube](https://www.youtube.com/live/DvKHwz-c11c) or [Twitch.tv](https://www.twitch.tv/redhatopenshift/) on Monday October 7, from 10 am to 11:30 am ET.
-This is an exciting opportunity for you to interact directly with OpenShift experts and learn—alongside Red Hat—what's new in OpenShift! Have questions during the session? Please use the Q&A function in YouTube or Twitch.tv to get them answered in real time.
-
-To learn about other OpenShift livestream events, subscribe today to the [livestream calendar](http://red.ht/streamcal).
+-   Please join our OpenShift product managers for an in-depth OpenShift update live via [YouTube](https://www.youtube.com/live/DvKHwz-c11c) or [Twitch.tv](https://www.twitch.tv/redhatopenshift/) on Monday October 7, from 10 am to 11:30 am ET.
+    - This is an exciting opportunity for you to interact directly with OpenShift experts and learn—alongside Red Hat—what's new in OpenShift! Have questions during the session? Please use the Q&A function in YouTube or Twitch.tv to get them answered in real time.
+    - To learn about other OpenShift livestream events, subscribe today to the [livestream calendar](http://red.ht/streamcal).
 We hope to see you on October 7!
-
-Can’t make the live event? No problem! We’ll be posting the recording to our [OpenShift YouTube channel](https://www.youtube.com/c/openshift), as well as to our [“What’s New/Next in OpenShift” web page](https://www.redhat.com/en/whats-new-red-hat-openshift)!
+    - Can’t make the live event? No problem! We’ll be posting the recording to our [OpenShift YouTube channel](https://www.youtube.com/c/openshift), as well as to our [“What’s New/Next in OpenShift” web page](https://www.redhat.com/en/whats-new-red-hat-openshift)!
 
 - Two privilege escalation vulnerabilities have been identified in the build process of recent versions of Red Hat OpenShift Container Platform.
 
