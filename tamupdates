@@ -24,6 +24,7 @@ Note that the sshd server will still be vulnerable to Denial of Service attacks 
 - OpenShift DeploymentConfigs are deprecated starting from OpenShift 4.14 [List of all deprecated features](https://docs.openshift.com/container-platform/4.14/release_notes/ocp-4-14-release-notes.html#ocp-4-14-deprecated-features)
 - TAM availability
 	- Holiday 9th December 2024 to 13th December 2024
+	- Christmas Holidays from Monday 23rd December 2024 returning Monday 6th January 2025
 - Openshift 4 Lifecycle
 	- [OCP Upgrade checker](https://access.redhat.com/labs/ocpupgradegraph/update_channel)
 	- [Red Hat OpenShift Container Platform Operator Update Information Checker](https://access.redhat.com/labs/ocpouic/?upgrade_path=4.10%20to%204.12) 
