@@ -24,6 +24,10 @@ Proactive Notifications
 
 - Additional items from Red Hat
     - Reference guide for Engaging with Red Hat Support is [here](https://access.redhat.com/articles/280093)
+    - Just a reminder about raising proactive cases: [https://access.redhat.com/solutions/3521621](https://access.redhat.com/solutions/3521621)
+    - Cluster Upgrade checking tool is here: [https://access.redhat.com/labs/ocpupgradegraph/update_channel](https://access.redhat.com/labs/ocpupgradegraph/update_channel)
+    - Operator Upgrade tool is here: [https://access.redhat.com/labs/ocpouic/?upgrade_path=4.12%20to%204.14](https://access.redhat.com/labs/ocpouic)
+    - Release Comparison Dashboard: [https://openshift-release.apps.ci.l2s4.p1.openshiftapps.com/dashboards/compare](https://openshift-release.apps.ci.l2s4.p1.openshiftapps.com/dashboards/compare)
 
 &nbsp;
 &nbsp;
