@@ -1,5 +1,10 @@
 #### Proactive Notifications
+- There is a known issue when upgrading to OpenShift 4.19.12 where the  `rpm-ostree rebase`  command fails with the error "is rejected by policy." This issue will block an upgrade to OpenShift 4.19.12.
 
+  For more detailed information, a KCS article has been created, which you can find here:     [1]. Additionally, a bug has been filed to track this issue: [2].
+
+  [1]  [https://access.redhat.com/solutions/7132125](https://access.redhat.com/solutions/7132125)  
+  [2]  [https://issues.redhat.com/browse/OCPBUGS-62510](https://issues.redhat.com/browse/OCPBUGS-62510)
 
 #### What's new in Red Hat Openshift
 - Red Hat Openshift 4.19
@@ -33,8 +38,9 @@
 
 &nbsp;
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjUxNDg4MiwyNDQ4NjA3NTUsNjQyMz
-YxODQsMTkwNzEwNzYwNSwtNDc5NzQ2NjksLTEwNDYyNzE0NjYs
-OTIzMjM0ODYzLDY5MTQxMjUwMSw2OTIzMjMxNTgsLTM0MTg2ND
-Y5MCw0NTM0MDg1MTgsMTMxODkxNzI3MV19
+eyJoaXN0b3J5IjpbMjY2MzA4MjA5LC0xOTY1MTQ4ODIsMjQ0OD
+YwNzU1LDY0MjM2MTg0LDE5MDcxMDc2MDUsLTQ3OTc0NjY5LC0x
+MDQ2MjcxNDY2LDkyMzIzNDg2Myw2OTE0MTI1MDEsNjkyMzIzMT
+U4LC0zNDE4NjQ2OTAsNDUzNDA4NTE4LDEzMTg5MTcyNzFdfQ==
+
 -->
