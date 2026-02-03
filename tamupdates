@@ -7,6 +7,9 @@
   [2]  [https://issues.redhat.com/browse/OCPBUGS-62510](https://issues.redhat.com/browse/OCPBUGS-62510)
 
 #### What's new in Red Hat Openshift
+- Red Hat Openshift 4.21
+    - Presentation is available on youtube [What's New in Openshift 4.21 - Key Updates and New Features](https://www.youtube.com/watch?v=2VrIfk2QbsU)
+    - Slides can be viewed or downloaded [What's New in OpenShift 4.21](https://speakerdeck.com/redhatlivestreaming/whats-new-in-openshift-4-dot-21)
 - Red Hat Openshift 4.20
     - Presentation is available on youtube [What's New in Openshift 4.20 - Key Updates and New Features](https://www.youtube.com/watch?v=2VrIfk2QbsU)
     - Slides can be viewed or downloaded [What's New in OpenShift 4.20](https://speakerdeck.com/redhatlivestreaming/whats-new-in-openshift-4-dot-20)
@@ -38,10 +41,11 @@
 
 &nbsp;
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTYyNjc5NzU3LDc3NTk3NjY4MCwtMjAxMz
-IwNTgxLC0xMTA1MzI2ODk0LDk5NDkxNjk2NSwtNjUwNzE0NjM1
-LDI2NjMwODIwOSwtMTk2NTE0ODgyLDI0NDg2MDc1NSw2NDIzNj
-E4NCwxOTA3MTA3NjA1LC00Nzk3NDY2OSwtMTA0NjI3MTQ2Niw5
-MjMyMzQ4NjMsNjkxNDEyNTAxLDY5MjMyMzE1OCwtMzQxODY0Nj
-kwLDQ1MzQwODUxOCwxMzE4OTE3MjcxXX0=
+eyJoaXN0b3J5IjpbLTE2NTcxMDY5OTYsOTYyNjc5NzU3LDc3NT
+k3NjY4MCwtMjAxMzIwNTgxLC0xMTA1MzI2ODk0LDk5NDkxNjk2
+NSwtNjUwNzE0NjM1LDI2NjMwODIwOSwtMTk2NTE0ODgyLDI0ND
+g2MDc1NSw2NDIzNjE4NCwxOTA3MTA3NjA1LC00Nzk3NDY2OSwt
+MTA0NjI3MTQ2Niw5MjMyMzQ4NjMsNjkxNDEyNTAxLDY5MjMyMz
+E1OCwtMzQxODY0NjkwLDQ1MzQwODUxOCwxMzE4OTE3MjcxXX0=
+
 -->
